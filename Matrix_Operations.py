@@ -1,4 +1,3 @@
-print('ku')import numpy as np
 import numpy as np
 
 matrix = np.array([
